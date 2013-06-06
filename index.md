@@ -3,7 +3,7 @@ title: A lab project for playing wtih github pages
 ---
 
 ======
-HEADER
+This is a header in MarkDown
 ======
 
 - a
