@@ -11,6 +11,7 @@ This is a header in MarkDown
 - Written in 
 - MarkDown
 - Here's an update
+- Added on the master branch 
 
 ...And another one written in HTML:
 
