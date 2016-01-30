@@ -1,0 +1,20 @@
+---
+title: A lab project for playing wtih github pages 
+---
+
+======
+This is a header in MarkDown
+======
+
+- a
+- list
+- Written in 
+- MarkDown
+- Here's an update
+
+...And another one written in HTML:
+
+<ol>
+  <li>Welcome</li>
+  <li>Come back soon</li>
+</ol>
